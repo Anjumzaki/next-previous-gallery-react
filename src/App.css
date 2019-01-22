@@ -1,0 +1,34 @@
+
+
+.App-logo {
+  height: 60vmin;
+  border-radius: 30px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  flex-direction: column;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.buttonLeft{
+  position: absolute;
+  top: 30vh;
+  height: 30vmin;
+  border-radius: 50px;
+  left: 20px
+}
+.buttonRight{
+  position: absolute;
+  top: 30vh;
+  height: 30vmin;
+  border-radius: 50px;
+  right: 20px
+}
+.App-link {
+  color: #61dafb;
+  margin: 0px;
+  padding: 0px;
+}
