@@ -1,0 +1,1 @@
+# next-previous-gallery-react
